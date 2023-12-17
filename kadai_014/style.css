@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+  font-size: 20px;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  border-bottom: 3px solid rgb(115, 115, 114);
+  letter-spacing: 1.2em;
+  text-shadow: 0px 6px 20px rgba(0, 0, 0, 0.16);
+}
+.c_s {
+  color: skyblue;
+}
+.c_p {
+  color: rgb(255, 192, 203);
+}
+.w_b p {
+  font-weight: bold;
+}
